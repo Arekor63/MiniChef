@@ -53,6 +53,19 @@ The Service Provider does not knowingly collect personally identifiable informat
 Security
 The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
 
+Advertising
+Mini Chef is supported by ads, which allows us to offer some features for free. We partner with third-party advertising networks, such as Google AdMob, to display advertisements within the app.
+To provide personalized advertising, our partners may collect and process certain data, including the Advertising ID from your device. The Advertising ID is a unique, user-resettable ID for advertising, provided by Google Play services.
+This data is used for the following purposes:
+• To serve ads that are more relevant to your interests.
+• For ad delivery, reporting, and to measure ad effectiveness.
+• To limit the number of times you see the same ad.
+We do not share any personal information you provide to us directly (like recipe names or ingredient costs) with our advertising partners.
+Third-Party Privacy Policies
+For more information on how our partners collect and use data, please review their privacy policies.
+• Google AdMob & AdSense: https://policies.google.com/technologies/ads
+Opting Out of Personalized Advertising
+You can opt-out of personalized advertising or reset your Advertising ID at any time through your device's settings. To do this, please follow the instructions provided by your device manufacturer.
 
 Changes
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
